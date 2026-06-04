@@ -7,3 +7,4 @@ tenacity
 rich
 pandas
 streamlit
+pytesseract
