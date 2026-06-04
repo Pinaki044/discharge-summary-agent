@@ -1,0 +1,29 @@
+PDF Input
+    |
+    V
+PDF Reader
+    |
+    V
+OCR Fallback
+    |
+    V
+Section Splitter
+    |
+    V
+Agent Controller
+    |
+    +---- Diagnosis Extractor
+    |
+    +---- Hospital Course Extractor
+    |
+    +---- Pending Result Extractor
+    |
+    +---- Medication Extractor
+    |
+    +---- Medication Reconciliation
+    |
+    V
+Structured Summary
+    |
+    V
+Clinician Review

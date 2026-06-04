@@ -1,0 +1,8 @@
+openai
+pymupdf
+pdfplumber
+pydantic
+python-dotenv
+tenacity
+rich
+pandas

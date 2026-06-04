@@ -1,0 +1,3 @@
+MAX_AGENT_STEPS = 15
+
+OUTPUT_DIR = "outputs/"
